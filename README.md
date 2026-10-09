@@ -26,3 +26,7 @@ mvn clean test
 ## Version Control
 This project uses Git and GitHub for version control.
 Changes are tracked through commits and branches.
+
+Billing Update
+
+The billing module calculates the subtotal, applies 5% GST, and calculates the final bill amount. It also validates item prices and quantities to prevent invalid entries.

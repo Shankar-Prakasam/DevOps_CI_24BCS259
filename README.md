@@ -22,3 +22,7 @@ A Java application that calculates restaurant bills based on food item prices an
 Run the following command:
 
 mvn clean test
+
+## Version Control
+This project uses Git and GitHub for version control.
+Changes are tracked through commits and branches.

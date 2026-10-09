@@ -26,3 +26,6 @@ mvn clean test
 ## Version Control
 This project uses Git and GitHub for version control.
 Changes are tracked through commits and branches.
+
+## Billing Status
+Billing module is under development.

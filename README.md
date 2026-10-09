@@ -30,3 +30,6 @@ Changes are tracked through commits and branches.
 Billing Update
 
 The billing module calculates the subtotal, applies 5% GST, and calculates the final bill amount. It also validates item prices and quantities to prevent invalid entries.
+
+## Billing Status
+Billing module is completed and tested.

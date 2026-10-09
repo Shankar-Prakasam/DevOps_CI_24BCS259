@@ -27,5 +27,6 @@ mvn clean test
 This project uses Git and GitHub for version control.
 Changes are tracked through commits and branches.
 
-## Billing Status
-Billing module is under development.
+Billing Status
+
+The billing module has been developed and tested. It calculates the subtotal, applies 5% GST, and calculates the final bill amount.

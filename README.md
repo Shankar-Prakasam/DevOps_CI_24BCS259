@@ -33,3 +33,7 @@ The billing module calculates the subtotal, applies 5% GST, and calculates the f
 
 ## Billing Status
 Billing module is completed and tested.
+
+Pull Request Demonstration
+
+This change demonstrates how a feature branch can be reviewed before being merged into the main branch.
